@@ -1,6 +1,6 @@
 body{
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
-  background-color:yellow;
+  background-color:paleturquoise;
 }
 h1{
   text-align:center;
@@ -70,6 +70,10 @@ p{
   height:100px;
   width:100px;
 }
-button{
-  background-color:green;
+
+.linkss{
+  background-color: goldenrod;
+  border: 1px solid black;
+  margin: 100px 100px;
+  color:black; 
 }
