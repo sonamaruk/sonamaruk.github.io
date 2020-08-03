@@ -1,0 +1,75 @@
+body{
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+  background-color:yellow;
+}
+h1{
+  text-align:center;
+}
+#sona{
+  height:200px;
+  width: 150px;
+}
+#frameOne{
+  height: 240px;
+  width: 180px;
+  border: 3px solid black;
+  padding: 10px 12px;
+  background:palevioletred;
+}
+#frameTwo{
+  height: 240px;
+  width: 1050px;
+  border: 3px solid black;
+  background: cornflowerblue; 
+}
+p{
+  padding: 20 px 2 px; 
+}
+#frameThree{
+  height: 100px;
+  width: 1000px;
+  border: 3px solid black;
+  background: white;
+  margin: 10px 10px 10px 10px; 
+  font-size: 16px;
+  text-align: center;
+}
+#frame4{
+  border: 3px solid black;
+  height: 300px;
+  margin: 10px 0px; 
+  background:yellowgreen;
+  font-size: 16px;
+  text-align: center;
+}
+#frame5{
+  border: 3px solid black;
+  height: 300px;
+  margin: 10px 0px; 
+  background:plum;
+  font-size: 16px;
+  text-align: center;
+}
+#frame6{
+  border: 3px solid black;
+  height: 300px;
+  margin: 10px 0px; 
+  background: blueviolet; 
+  text-align:center;
+  font-size:16px;
+}
+#sewing{
+  height:100px;
+  width:100px;
+}
+#sudoku{
+  height:100px;
+  width:100px;
+}
+#run{
+  height:100px;
+  width:100px;
+}
+button{
+  background-color:green;
+}
