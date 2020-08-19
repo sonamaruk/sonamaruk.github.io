@@ -15,12 +15,15 @@ h1{
   border: 3px solid black;
   padding: 10px 12px;
   background:palevioletred;
+  border-radius:5px;
 }
 #frameTwo{
   height: 240px;
   width: 1050px;
   border: 3px solid black;
   background: cornflowerblue; 
+  border-radius:5px;
+
 }
 p{
   padding: 20 px 2 px; 
@@ -33,30 +36,28 @@ p{
   margin: 10px 10px 10px 10px; 
   font-size: 16px;
   text-align: center;
-}
-#frame4{
-  border: 3px solid black;
-  height: 300px;
-  margin: 10px 0px; 
-  background:yellowgreen;
-  font-size: 16px;
-  text-align: center;
+  border-radius:5px;
 }
 #frame5{
   border: 3px solid black;
-  height: 300px;
-  margin: 10px 0px; 
+  height: 300px; 
   background:plum;
   font-size: 16px;
   text-align: center;
+  width:500px;
+  margin:auto;
+  border-radius:5px;
+
 }
 #frame6{
   border: 3px solid black;
   height: 300px;
-  margin: 10px 0px; 
-  background: blueviolet; 
+  background: cornflowerblue; 
   text-align:center;
   font-size:16px;
+  width:500px;
+  margin:auto;
+  border-radius:5px;
 }
 #sewing{
   height:100px;
@@ -74,6 +75,43 @@ p{
 .linkss{
   background-color: goldenrod;
   border: 1px solid black;
-  margin: 100px 100px;
   color:black; 
+}
+#food{
+  height: 100px;
+  width:250px;
+  background-color:palevioletred;
+}
+#show{
+  height: 100px;
+  width:250px;
+  background-color:palevioletred;
+  border
+}
+#movie{
+  height: 100px;
+  width:250px;
+  background-color:palevioletred;
+}
+#drink{
+  height: 100px;
+  width:250px;
+  background-color:palevioletred;
+}
+#season{
+  height: 100px;
+  width:250px;
+  background-color:palevioletred;
+}
+#book{
+  height: 100px;
+  width:250px;
+  background-color:palevioletred;
+}
+.center{
+  text-align:center;
+  color:white;
+  border: 5px black solid;
+  border-radius: 5px;
+  vertical-align:center;
 }
